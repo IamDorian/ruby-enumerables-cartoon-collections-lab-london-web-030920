@@ -1,10 +1,27 @@
-def roll_call_dwarves# code an argument here
-  # Your code here
-end
+# def roll_call_dwarves(array)# code an argument here
+#   # Your code here
+#   myhash = Hash.new
+#   array.each_with_index { |item,index|
 
-def summon_captain_planet# code an argument here
-  # Your code here
-end
+#     myhash[index] = item
+
+#   }
+#   puts myhash
+# end
+
+# myArr = ["Doc", "Dopey", "Bashful", "Grumpy"]
+# roll_call_dwarves(myArr)
+# def summon_captain_planet(names)# code an argument here
+#   # Your code here
+#   # names.collect {|name|
+#   #   name.capitalize
+#   #  }.each {|names| p "#{names}!" }
+#     names.map {|name|
+    
+#     puts "#{name.capitalize}!"
+#    }
+   
+# end
 
 def long_planeteer_calls# code an argument here
   # Your code here
