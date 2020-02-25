@@ -8,7 +8,7 @@
    }
    puts myhash
  end
- myArr = ["Dopey", "Bashful", "Grumpy"]
+ myArr = ["Doc", "Dopey", "Bashful", "Grumpy"]
  roll_call_dwarves(myArr)
 
  def summon_captain_planet(names)# code an argument here
