@@ -10,8 +10,7 @@
 
  def summon_captain_planet(names)# code an argument here
    # Your code here
-    names.collect {|name|
-      name.capitalize + '!'}
+    names.collect {|name| name.capitalize + '!'}
     
     
     end
