@@ -6,7 +6,7 @@
      myhash[index] = item
 
    }
-   print myhash
+   puts myhash
  end
  myArr = ["Dopey", "Bashful", "Grumpy"]
  roll_call_dwarves(myArr)
