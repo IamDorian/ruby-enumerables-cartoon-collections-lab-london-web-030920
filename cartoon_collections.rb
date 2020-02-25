@@ -4,6 +4,7 @@
    array.each_with_index do |item,index|
    puts "#{index} #{item}"
  end
+ end
 # myArr = ["Doc", "Dopey", "Bashful", "Grumpy"]
 # roll_call_dwarves(myArr)
 
