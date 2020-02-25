@@ -13,7 +13,7 @@
     names.collect {|name|
       name.capitalize + '!'}
     
-     puts "#{name.capitalize}!"}
+    
     end
 
 def long_planeteer_calls# code an argument here
