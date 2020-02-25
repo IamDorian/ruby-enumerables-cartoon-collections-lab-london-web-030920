@@ -1,15 +1,11 @@
  def roll_call_dwarves(array)# code an argument here
    # Your code here
-   myhash = Hash.new
-   array.each_with_index { |item,index|
-
-     myhash[index] = item
-
-   }
-   puts myhash
+   
+   array.each_with_index { |item,index|}
+   puts "#{index} #{item}"
  end
- myArr = ["Doc", "Dopey", "Bashful", "Grumpy"]
- roll_call_dwarves(myArr)
+# myArr = ["Doc", "Dopey", "Bashful", "Grumpy"]
+# roll_call_dwarves(myArr)
 
  def summon_captain_planet(names)# code an argument here
    # Your code here
